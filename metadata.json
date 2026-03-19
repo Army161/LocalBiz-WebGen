@@ -1,0 +1,8 @@
+{
+  "name": "LocalBiz WebGen",
+  "description": "Find local businesses without websites using Google Maps and generate professional sites for them using Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
